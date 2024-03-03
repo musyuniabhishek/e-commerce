@@ -1,0 +1,419 @@
+{
+  "maincategory": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "df6d",
+      "name": "Kids"
+    },
+    {
+      "id": "2467",
+      "name": "Male"
+    },
+    {
+      "id": "1b40",
+      "name": "Female"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "e449",
+      "name": "jeans"
+    },
+    {
+      "id": "a3da",
+      "name": "t-shirt"
+    },
+    {
+      "id": "9f6f",
+      "name": "shirt"
+    }
+  ],
+  "brand": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "ebd5",
+      "name": "Zara",
+      "pic": "zara.png"
+    },
+    {
+      "id": "dbd8",
+      "name": "wildcraft",
+      "pic": "wildcraft.png"
+    },
+    {
+      "id": "064e",
+      "name": "Levis",
+      "pic": "levis.png"
+    },
+    {
+      "id": "3094",
+      "name": "H&M",
+      "pic": "h&m.jpg"
+    },
+    {
+      "id": "61ed",
+      "name": "us polo",
+      "pic": "uspolo.jfif"
+    },
+    {
+      "id": "1a83",
+      "name": "Adidas",
+      "pic": "adidas.png"
+    },
+    {
+      "id": "9d61",
+      "name": "Gant",
+      "pic": "gant.png"
+    },
+    {
+      "id": "e994",
+      "name": "Puma",
+      "pic": "puma.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "62d2",
+      "name": "Kids t-shirt",
+      "maincategory": "Kids",
+      "subcategory": "t-shirt",
+      "brand": "us polo",
+      "color": "White",
+      "size": "Small",
+      "baseprice": "2500",
+      "discount": "25",
+      "finalprice": 1875,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic1.webp",
+      "pic2": "pic2.webp",
+      "pic3": "pic3.webp",
+      "pic4": "pic4.jfif"
+    },
+    {
+      "id": "c331",
+      "name": "gym t-shirt",
+      "maincategory": "Male",
+      "subcategory": "t-shirt",
+      "brand": "wildcraft",
+      "color": "Red",
+      "size": "XL",
+      "baseprice": "1000",
+      "discount": "10",
+      "finalprice": 900,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic5.jpg",
+      "pic2": "pic6.jpg",
+      "pic3": "pic7.jpg",
+      "pic4": "pic8.jpg"
+    },
+    {
+      "id": "9d38",
+      "name": "printed t-shirt",
+      "maincategory": "Female",
+      "subcategory": "t-shirt",
+      "brand": "Zara",
+      "color": "White",
+      "size": "Small",
+      "baseprice": "3000",
+      "discount": "20",
+      "finalprice": 2400,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic11.jpg",
+      "pic2": "pic9.jpg",
+      "pic3": "pic10.jpg",
+      "pic4": "pic12.jpg"
+    },
+    {
+      "id": "4ff8",
+      "name": "men`s jeans",
+      "maincategory": "Male",
+      "subcategory": "jeans",
+      "brand": "Puma",
+      "color": "Black",
+      "size": "32",
+      "baseprice": "10000",
+      "discount": "15",
+      "finalprice": 8500,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic15.jpg",
+      "pic2": "pic16.jpg",
+      "pic3": "pic13.jpg",
+      "pic4": "pic14.jpg"
+    },
+    {
+      "id": "d3a5",
+      "name": "Female tshirt",
+      "maincategory": "Female",
+      "subcategory": "t-shirt",
+      "brand": "H&M",
+      "color": "navy",
+      "size": "Small",
+      "baseprice": "3000",
+      "discount": "10",
+      "finalprice": 2700,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic17.jpg",
+      "pic2": "pic18.jpg",
+      "pic3": "pic19.jpg",
+      "pic4": "pic20.jpg"
+    },
+    {
+      "id": "e01b",
+      "name": "female denim jeans",
+      "maincategory": "Female",
+      "subcategory": "jeans",
+      "brand": "Levis",
+      "color": "Blue",
+      "size": "28",
+      "baseprice": "3500",
+      "discount": "10",
+      "finalprice": 3150,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic21.jpg",
+      "pic2": "pic23.jpg",
+      "pic3": "pic22.jpg",
+      "pic4": "pic24.jpg"
+    },
+    {
+      "id": "6695",
+      "name": "Female shirt",
+      "maincategory": "Female",
+      "subcategory": "shirt",
+      "brand": "Zara",
+      "color": "Red",
+      "size": "M",
+      "baseprice": "5000",
+      "discount": "15",
+      "finalprice": 4250,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic27.jpg",
+      "pic2": "pic28.jpg",
+      "pic3": "pic26.jpg",
+      "pic4": "pic25.jpg"
+    },
+    {
+      "id": "6537",
+      "name": "oversized Shirt",
+      "maincategory": "Male",
+      "subcategory": "shirt",
+      "brand": "Zara",
+      "color": "Grey",
+      "size": "XL",
+      "baseprice": "5000",
+      "discount": "20",
+      "finalprice": 4000,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic30.jpg",
+      "pic2": "pic29.jpg",
+      "pic3": "pic31.jpg",
+      "pic4": "pic32.jpg"
+    },
+    {
+      "id": "c378",
+      "name": "Ripped jeans",
+      "maincategory": "Male",
+      "subcategory": "jeans",
+      "brand": "Levis",
+      "color": "navy",
+      "size": "34",
+      "baseprice": "8000",
+      "discount": "15",
+      "finalprice": 6800,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic33.jpg",
+      "pic2": "pic34.jpg",
+      "pic3": "pic35.jpg",
+      "pic4": "pic36.jpg"
+    },
+    {
+      "id": "2352",
+      "name": "slim fit jeans",
+      "maincategory": "Female",
+      "subcategory": "jeans",
+      "brand": "wildcraft",
+      "color": "Black",
+      "size": "26",
+      "baseprice": "4000",
+      "discount": "10",
+      "finalprice": 3600,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic41.jpg",
+      "pic2": "pic42.jpg",
+      "pic3": "pic43.jpg",
+      "pic4": ""
+    },
+    {
+      "id": "0de3",
+      "name": "printed t-shirt",
+      "maincategory": "Male",
+      "subcategory": "t-shirt",
+      "brand": "H&M",
+      "color": "Pink",
+      "size": "M",
+      "baseprice": "2000",
+      "discount": "30",
+      "finalprice": 1400,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic44.webp",
+      "pic2": "pic45.webp",
+      "pic3": "pic46.webp",
+      "pic4": "pic47.webp"
+    },
+    {
+      "id": "61da",
+      "name": "oversized Shirt",
+      "maincategory": "Male",
+      "subcategory": "shirt",
+      "brand": "Puma",
+      "color": "Blue",
+      "size": "XL",
+      "baseprice": "8000",
+      "discount": "10",
+      "finalprice": 7200,
+      "stock": "In stock",
+      "description": "This is a sample product",
+      "pic1": "pic38.jpg",
+      "pic2": "pic37.jpg",
+      "pic3": "pic39.jpg",
+      "pic4": "pic40.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "238a",
+      "name": "Abhishek musyuni",
+      "email": "musyunia42@gmail.com",
+      "username": "abhishek",
+      "phone": "9149109082",
+      "password": "Almora@123",
+      "role": "Admin",
+      "address": "pakhura",
+      "pin": "263636",
+      "city": "Almora",
+      "state": "Uttarakhand"
+    },
+    {
+      "id": "a095",
+      "name": "Abhishek(Buyer)",
+      "email": "musyunia42@gmail.com",
+      "username": "musyunia42",
+      "phone": "9149109082",
+      "password": "Almora@123",
+      "role": "Buyer",
+      "address": "266, Block e, minor road, sector-22 ,block-e, sector-22 ,noida, noida",
+      "pin": "263636",
+      "city": "noida",
+      "state": "uttar pradesh"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "ac2f",
+      "userid": "a095",
+      "productid": "0de3",
+      "name": "printed t-shirt",
+      "brand": "H&M",
+      "color": "Pink",
+      "size": "M",
+      "price": 1400,
+      "pic": "pic44.webp"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "9198",
+      "userid": "a095",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "orderstatus": "Delivered",
+      "subtotal": 2800,
+      "shipping": 0,
+      "total": 2800,
+      "products": [
+        {
+          "id": "39e6",
+          "userid": "a095",
+          "productid": "0de3",
+          "name": "printed t-shirt",
+          "brand": "H&M",
+          "color": "Pink",
+          "size": "M",
+          "price": 1400,
+          "pic": "pic44.webp",
+          "qty": 2,
+          "total": 2800
+        }
+      ],
+      "date": "2/7/2024"
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "2f83",
+      "email": "pradeep@gmail.com"
+    }
+  ],
+  "contact": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "14a9",
+      "name": "Abhishek musyuni",
+      "email": "musyunia42@gmail.com",
+      "phone": "9149109082",
+      "subject": "This is a sample product ",
+      "message": "This is a sample product This is a sample product This is a sample product This is a sample product This is a sample product This is a sample product This is a sample product This is a sample product This is a sample product This is a sample product This is a sample product This is a sample product ",
+      "status": "Done",
+      "date": "2024-02-07T03:21:51.232Z"
+    },
+    {
+      "id": "792e",
+      "name": "Pradeep pilkhwal",
+      "email": "pradeep@gmail.com",
+      "phone": "9999999999",
+      "subject": "This is a sample ",
+      "message": "This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample This is a sample ",
+      "status": "Active",
+      "date": "2/7/2024"
+    }
+  ]
+}
