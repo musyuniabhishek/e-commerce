@@ -138,17 +138,17 @@ export default function About() {
                 </h4>
                 <ul className="social-link-team">
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.facebook.com" target="_blank">
                       <i className="fab fa-facebook-f"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.twitter.com" target="_blank">
                       <i className="fab fa-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.instagram.com" target="_blank">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </li>
@@ -163,17 +163,17 @@ export default function About() {
                 </h4>
                 <ul className="social-link-team">
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.facebook.com" target="_blank">
                       <i className="fab fa-facebook-f"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.twitter.com" target="_blank">
                       <i className="fab fa-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.instagram.com" target="_blank">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </li>
@@ -188,17 +188,17 @@ export default function About() {
                 </h4>
                 <ul className="social-link-team">
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.facebook.com" target="_blank">
                       <i className="fab fa-facebook-f"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.twitter.com" target="_blank">
                       <i className="fab fa-twitter"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" target="_blank">
+                    <a href="www.instagram.com" target="_blank">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </li>
